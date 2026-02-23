@@ -182,10 +182,15 @@ Each detected gesture can be remapped to any of the following actions:
 ```
 GestuApp/
 ├── gestuapp.py        # Main application (gesture engine + UI + tray)
-├── requirements.txt   # Python dependencies with pinned versions
-├── images/            # Screenshots and media for documentation
-│   ├── banner.png
-│   └── demo.gif
+├── requirements.txt   # Python dependencies
+├── images/            # UI and gesture screenshots for documentation
+│   ├── banneer.png
+│   ├── gesto1.png
+│   ├── gesto2.png
+│   ├── gesto3.png
+│   ├── gesto4.png
+│   ├── parameters.png
+│   └── mapping_gesture.png
 ├── .gitignore
 └── README.md
 ```
