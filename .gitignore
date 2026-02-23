@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+.env/
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos del sistema / varios
+.DS_Store
+Thumbs.db
+*.log
+
+# Salidas temporales
+*.tmp
+*.bak
+
